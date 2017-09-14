@@ -10,6 +10,7 @@ TxHandler  - 15/15 Test Cases successfully passed!
 
 MaxFeeTxHandler - 2/3 Test Cases successfully passed!
 
+
 Assignment 2: Consensus from Trust
 
 ComplaintNode  - 90% 
@@ -39,6 +40,7 @@ On average 42 out of 54 of nodes reach consensus
 
 Running test with parameters: numNodes = 100, p_graph = 0.2, p_malicious = 0.45, p_txDistribution = 0.05, numRounds = 10
 On average 46 out of 54 of nodes reach consensus
+
 
 
 Assignment 3: Blockchain
