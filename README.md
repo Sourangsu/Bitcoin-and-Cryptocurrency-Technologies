@@ -38,5 +38,5 @@ Running test with parameters: numNodes = 100, p_graph = 0.2, p_malicious = 0.45,
 On average 46 out of 54 of nodes reach consensus
 
 
-Assignment 1: Blockchain
+Assignment 3: Blockchain
 BlockChain - 27/27 Test Cases successfully passed!
