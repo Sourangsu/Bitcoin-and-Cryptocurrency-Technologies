@@ -1,6 +1,6 @@
 # Bitcoin-and-Cryptocurrency-Technologies-Code-MOOC
 
-The following are my codes for Bitcoin and Crytocurrency Technologies Course offered by Coursera. 
+This repository hosts the python assignment codes for Coursera's MOOC "Python for Everybody".
 As you can see that my codes are not 100% efficient. You can use and modify them to be more efficient! 
 
 
