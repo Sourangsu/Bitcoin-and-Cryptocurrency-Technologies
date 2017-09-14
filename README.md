@@ -5,14 +5,14 @@ As you can see that my codes are not 100% efficient. You can use and modify them
 
 
 Assignment 1: Scrooge Coin
-===============================
+------------------------------
 
 TxHandler  - 15/15 Test Cases successfully passed!
 
 MaxFeeTxHandler - 2/3 Test Cases successfully passed!
 
 Assignment 2: Consensus from Trust
-===============================
+---------------------------------------
 
 ComplaintNode  - 90% 
 
@@ -45,6 +45,6 @@ On average 46 out of 54 of nodes reach consensus
 
 
 Assignment 3: Blockchain
-===============================
+---------------------------
 
 BlockChain - 27/27 Test Cases successfully passed!
